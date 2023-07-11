@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h2{
+    font-family: 'Pally', sans-serif;
+}
+
+*{
+    font-family: 'Roboto Mono', monospace;
+}
